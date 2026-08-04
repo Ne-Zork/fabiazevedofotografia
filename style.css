@@ -147,7 +147,7 @@ header:not(.scrolled) .menu-toggle span {
   justify-content: center;
   text-align: center;
   position: relative;
-  background-image: url(../imagens/bb01.jpg);
+  background-image: url(bb01.jpg);
   background-position: center;
   overflow: hidden;
 }
