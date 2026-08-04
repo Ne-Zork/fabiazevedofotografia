@@ -81,6 +81,7 @@ nav {
 
 header:not(.scrolled) .logo {
   color: var(--cor-branca);
+    background: linear-gradient(135deg, #8B6F5E 0%, #C4A882 50%, #D4A574 100%);
 }
 
 .nav-links {
@@ -165,7 +166,6 @@ header:not(.scrolled) .menu-toggle span {
 
 .hero-content {
   position: relative;
-  background: linear-gradient(135deg, #8B6F5E 0%, #C4A882 50%, #D4A574 100%);
   z-index: 2;
   width: 100%;
   padding: 25px;
